@@ -1,6 +1,7 @@
-# Simple Calculator Program
+# Simple Calculator Program 
+# I have developed calculator by using the python programming to create a valueable a python programming language
 
-def add(x, y):
+def add(x, y):   
     return x + y
 
 def subtract(x, y):
