@@ -42,3 +42,19 @@ def calculator():
 
 # Run the calculator
 calculator()
+# def(x,y)
+# return x + y;
+# def(x,y)
+# return x - y;
+# def(x,y)
+# return x * y
+# def (x,y)
+# return x / y 
+# def calculator():
+#print("Select operation")
+# print("add")
+# print("subtract")
+# print ("Multiplication")
+# print ("divsion")
+h
+
